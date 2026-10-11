@@ -2,6 +2,9 @@
 
 A Python script that automatically organizes files into folders based on their file extensions.
 
+## Screenshot
+
+![Python File Organizer running in VS Code](screenshot.png)
 ## Features
 
 - Automatically categorizes files by extension.
