@@ -50,5 +50,17 @@ python main.py
 - Git and GitHub
 
 ## Project Status
+## Example Output
+
+```text
+Folder exists.
+Images: 3 files
+PowerPoint: 8 files
+Files moved: 11
+Skipped: 11
+Renamed: 3
+```
+
+*Example output from a test run. Results depend on the files in the selected folder.*
 
 First portfolio project — built and tested with file categorization, duplicate filename handling, and processing statistics.
